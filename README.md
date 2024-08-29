@@ -26,11 +26,11 @@ GIF created with LiceCap
 
 ## Challenges & Tribulations
 
--> Adding the gif to this README was a lot harder than expected!
--> Using `` instead of '' to display dynamic content in strings
--> Figuring out the structure of JSON files and how to extract data from them
--> Using the reduce() and filter() functions
--> Using Javascript list destruction to extract values from a list
+* -> Adding the gif to this README was a lot harder than expected!
+* -> Using `` instead of '' to display dynamic content in strings
+* -> Figuring out the structure of JSON files and how to extract data from them
+* -> Using the reduce() and filter() functions
+* -> Using Javascript list destruction to extract values from a list
 
 ## License
 
